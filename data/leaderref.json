@@ -1,0 +1,337 @@
+{
+	"leaders": [
+		{
+			"name": "Ahmad al-Mansur",
+			"id":	"LEADER_AHMAD_ALMANSUR",
+			"civ":	"Morocco",
+			"icon":	"icon-morocco.png"
+		},
+		{
+			"name": "Alexander",
+			"id":	"LEADER_ALEXANDER",
+			"civ":	"Greece",
+			"icon":	"icon-alexander.png"
+		},
+		{
+			"name": "Ashurbanipal",
+			"id":	"LEADER_ASHURBANIPAL",
+			"civ":	"Assyria",
+			"icon":	"icon-ashur.png"
+		},
+		{
+			"name": "Askia",
+			"id":	"LEADER_ASKIA",
+			"civ":	"Songhai",
+			"icon":	"icon-askia.png"
+		},
+		{
+			"name": "Atilla",
+			"id":	"LEADER_ATTILA",
+			"civ":	"Huns",
+			"icon":	"icon-atilla.png"
+		},
+		{
+			"name": "Augustus Caesar",
+			"id":	"LEADER_AUGUSTUS",
+			"civ":	"Rome",
+			"icon":	"icon-augustus.png"
+		},
+		{
+			"name": "Bismarck",
+			"id":	"LEADER_BISMARCK",
+			"civ":	"Germany",
+			"icon":	"icon-bismark.png"
+		},
+		{
+			"name": "Boudicca",
+			"id":	"LEADER_BOUDICCA",
+			"civ":	"Celts",
+			"icon":	"icon-boudicca.png"
+		},
+		{
+			"name": "Casimir III",
+			"id":	"LEADER_CASIMIR",
+			"civ":	"Poland",
+			"icon":	"icon-casimir.png"
+		},
+		{
+			"name": "Catherine",
+			"id":	"LEADER_CATHERINE",
+			"civ":	"Rissia",
+			"icon":	"icon-catherine.png"
+		},
+		{
+			"name": "Darius I",
+			"id":	"LEADER_DARIUS",
+			"civ":	"Persia",
+			"icon":	"icon-darius.png"
+		},
+		{
+			"name": "Dido",
+			"id":	"LEADER_DIDO",
+			"civ":	"Carthage",
+			"icon":	"icon-dido.png"
+		},
+		{
+			"name": "Elizabeth",
+			"id":	"LEADER_ELIZABETH",
+			"civ":	"England",
+			"icon":	"icon-elizabeth.png"
+		},
+		{
+			"name": "Enrico Dandolo",
+			"id":	"LEADER_ENRICO_DANDOLO",
+			"civ":	"Venice",
+			"icon":	"icon-enrico.png"
+		},
+		{
+			"name": "Gajah Mada",
+			"id":	"LEADER_GAJAH_MADA",
+			"civ":	"Indonesia",
+			"icon":	"icon-gajah.png"
+		},
+		{
+			"name": "Gandhi",
+			"id":	"LEADER_GANDHI",
+			"civ":	"India",
+			"icon":	"icon-gandhi.png"
+		},
+		{
+			"name": "Genghis Khan",
+			"id":	"LEADER_GENGHIS_KHAN",
+			"civ":	"Mongolia",
+			"icon":	"icon-genghis.png"
+		},
+		{
+			"name": "Gustavus Adolphus",
+			"id":	"LEADER_GUSTAVUS_ADOLPHUS",
+			"civ":	"Sweden",
+			"icon":	"icon-gustavus.png"
+		},
+		{
+			"name": "Haile Selassie",
+			"id":	"LEADER_SELASSIE",
+			"civ":	"Ethiopia",
+			"icon":	"icon-haile.png"
+		},
+		{
+			"name": "Harald Bluetooth",
+			"id":	"LEADER_HARALD",
+			"civ":	"Denmark",
+			"icon":	"icon-harald.png"
+		},
+		{
+			"name": "Harun al-Rashid",
+			"id":	"LEADER_HARUN_AL_RASHID",
+			"civ":	"Arabia",
+			"icon":	"icon-harun.png"
+		},
+		{
+			"name": "Hiawatha",
+			"id":	"LEADER_HIAWATHA",
+			"civ":	"Iriquois",
+			"icon":	"icon-hiawatha.png"
+		},
+		{
+			"name": "Isabella",
+			"id":	"LEADER_ISABELLA",
+			"civ":	"Spain",
+			"icon":	"icon-isabella.png"
+		},
+		{
+			"name": "Kame&shy;hameha",
+			"id":	"LEADER_KAMEHAMEHA",
+			"civ":	"Polynesia",
+			"icon":	"icon-kamehameha.png"
+		},
+		{
+			"name": "Maria I",
+			"id":	"LEADER_MARIA",
+			"civ":	"Portugal",
+			"icon":	"icon-maria.png"
+		},
+		{
+			"name": "Maria Theresa",
+			"id":	"LEADER_MARIA_I",
+			"civ":	"Austia",
+			"icon":	"icon-maria-theresa.png"
+		},
+		{
+			"name": "Montezuma",
+			"id":	"LEADER_MONTEZUMA",
+			"civ":	"Aztec",
+			"icon":	"icon-montezuma.png"
+		},
+		{
+			"name": "Napoleon",
+			"id":	"LEADER_NAPOLEON",
+			"civ":	"France",
+			"icon":	"icon-napoleon.png"
+		},
+		{
+			"name": "Nebuchad&shy;nezzar II",
+			"id":	"LEADER_NEBUCHADNEZZAR",
+			"civ":	"Babylon",
+			"icon":	"icon-neb.png"
+		},
+		{
+			"name": "Oda Nobunaga",
+			"id":	"LEADER_ODA_NOBUNAGA",
+			"civ":	"Japan",
+			"icon":	"icon-oda.png"
+		},
+		{
+			"name": "Pacal",
+			"id":	"LEADER_PACAL",
+			"civ":	"Maya",
+			"icon":	"icon-pacal.png"
+		},
+		{
+			"name": "Pachacuti",
+			"id":	"LEADER_PACHACUTI",
+			"civ":	"Inca",
+			"icon":	"icon-pachacuti.png"
+		},
+		{
+			"name": "Pedro II",
+			"id":	"LEADER_PEDRO",
+			"civ":	"Brazil",
+			"icon":	"icon-pedro.png"
+		},
+		{
+			"name": "Pocatello",
+			"id":	"LEADER_POCATELLO",
+			"civ":	"Shoshone",
+			"icon":	"icon-pocatello.png"
+		},
+		{
+			"name": "Ramesses II",
+			"id":	"LEADER_RAMESSES",
+			"civ":	"Egypt",
+			"icon":	"icon-ramesses.png"
+		},
+		{
+			"name": "Ram&shy;khamhaeng",
+			"id":	"LEADER_RAMKHAMHAENG",
+			"civ":	"Siam",
+			"icon":	"icon-rammy.png"
+		},
+		{
+			"name": "Sejong",
+			"id":	"LEADER_SEJONG",
+			"civ":	"Korea",
+			"icon":	"icon-sejong.png"
+		},
+		{
+			"name": "Shaka",
+			"id":	"LEADER_SHAKA",
+			"civ":	"Zulu",
+			"icon":	"icon-shaka.png"
+		},
+		{
+			"name": "Suleiman",
+			"id":	"LEADER_SULEIMAN",
+			"civ":	"Ottoman Empire",
+			"icon":	"icon-suleiman.png"
+		},
+		{
+			"name": "Theodora",
+			"id":	"LEADER_THEODORA",
+			"civ":	"Byzantium",
+			"icon":	"icon-theodora.png"
+		},
+		{
+			"name": "Washington",
+			"id":	"LEADER_WASHINGTON",
+			"civ":	"America",
+			"icon":	"icon-washington.png"
+		},
+		{
+			"name": "William",
+			"id":	"LEADER_WILLIAM",
+			"civ":	"The Netherlands",
+			"icon":	"icon-william.png"
+		},
+		{
+			"name": "Wu Zetian",
+			"id":	"LEADER_WU_ZETIAN",
+			"civ":	"China",
+			"icon":	"icon-wu.png"
+		}
+	],
+	"traits": 
+	{	
+		"Boldness"				:  "Boldness",
+		"Chattiness"			:  "Chattiness",
+		"DenounceWillingness"	:  "Denounce Willingness",
+		"DiploBalance"			:  "Diplomatic Balance",
+		"DoFWillingness"		:  "Friendship Willingness",
+		"Forgiveness"			:  "Forgiveness",
+		"Loyalty"				:  "Loyalty",
+		"Meanness"				:  "Meanness",
+		"MinorCivCompetitiveness": "City-State Competitiveness",
+		"Neediness"				:  "Neediness",
+		"VictoryCompetitiveness":  "Victory Competitiveness",
+		"WarmongerHate"			:  "Warmonger Hatred",
+		"WonderCompetitiveness" :  "Wonder Competitiveness"
+	},
+	"flavors":
+	{
+		"FLAVOR_AIR"					: "Air",
+		"FLAVOR_AIRLIFT"				: "Airlift",
+		"FLAVOR_AIR_CARRIER"			: "Aircraft Carrier",
+		"FLAVOR_ANTIAIR"				: "Anti-Air",
+		"FLAVOR_ARCHAEOLOGY"			: "Archaology",
+		"FLAVOR_CITY_DEFENSE"			: "City Defense",
+		"FLAVOR_CULTURE"				: "Culture",
+		"FLAVOR_DEFENSE"				: "Defense",
+		"FLAVOR_DIPLOMACY"				: "Diplomacy",
+		"FLAVOR_ESPIONAGE"				: "Espionage",
+		"FLAVOR_EXPANSION"				: "Expansion",
+		"FLAVOR_GOLD"					: "Gold",
+		"FLAVOR_GREAT_PEOPLE"			: "Great People",
+		"FLAVOR_GROWTH"					: "Growth",
+		"FLAVOR_HAPPINESS"				: "Happiness",
+		"FLAVOR_INFRASTRUCTURE"			: "Infrastructure",
+		"FLAVOR_I_LAND_TRADE_ROUTE"		: "Land Trade",
+		"FLAVOR_I_SEA_TRADE_ROUTE"		: "Sea Trade",
+		"FLAVOR_I_TRADE_DESTINATION"	: "Trade Destination",
+		"FLAVOR_I_TRADE_ORIGIN"			: "Trade Origin",
+		"FLAVOR_MILITARY_TRAINING"		: "Military Training",
+		"FLAVOR_MOBILE"					: "Mobile",
+		"FLAVOR_NAVAL"					: "Naval",
+		"FLAVOR_NAVAL_GROWTH"			: "Naval Growth",
+		"FLAVOR_NAVAL_RECON"			: "Naval Recon",
+		"FLAVOR_NAVAL_TILE_IMPROVEMENT"	: "Naval Tile Improvement",
+		"FLAVOR_NUKE"					: "Build Nuke",
+		"FLAVOR_OFFENSE"				: "Offense",
+		"FLAVOR_PRODUCTION"				: "Production",
+		"FLAVOR_RANGED"					: "Long Range",
+		"FLAVOR_RECON"					: "Recon",
+		"FLAVOR_RELIGION"				: "Religion",
+		"FLAVOR_SCIENCE"				: "Science",
+		"FLAVOR_SPACESHIP"				: "Spaceship",
+		"FLAVOR_TILE_IMPROVEMENT"		: "Tile Improvement",
+		"FLAVOR_USE_NUKE"				: "Use Nuke",
+		"FLAVOR_WATER_CONNECTION"		: "Water Connection",
+		"FLAVOR_WONDER"					: "Wonder"
+	},
+	"major_approach_biases":
+	{
+		"MAJOR_CIV_APPROACH_AFRAID"		: "Afraid",
+		"MAJOR_CIV_APPROACH_DECEPTIVE"	: "Deceptive",
+		"MAJOR_CIV_APPROACH_FRIENDLY"	: "Friendly",
+		"MAJOR_CIV_APPROACH_GUARDED"	: "Guarded",
+		"MAJOR_CIV_APPROACH_HOSTILE"	: "Hostile",
+		"MAJOR_CIV_APPROACH_NEUTRAL"	: "Neutrality",
+		"MAJOR_CIV_APPROACH_WAR"		: "War"
+	},
+	"minor_approach_biases":
+	{
+		"MINOR_CIV_APPROACH_BULLY"		: "CS Bully",
+		"MINOR_CIV_APPROACH_CONQUEST"	: "CS Conquest",
+		"MINOR_CIV_APPROACH_FRIENDLY"	: "CS Friendly",
+		"MINOR_CIV_APPROACH_IGNORE"		: "CS Ignore",
+		"MINOR_CIV_APPROACH_PROTECTIVE"	: "CS Protect"
+	}
+}

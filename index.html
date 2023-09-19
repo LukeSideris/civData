@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+	<title>CIV V Interactive AI Bias Value Chart</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta name="author" content="Luke Sideris" />
+	<meta property='og:image' content='' />
+	<meta property="og:description" content="" />
+	<meta property='og:title' content='' />
+	
+	<meta name="viewport" id="mainViewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+	<link href="css/print.css" rel="stylesheet" media="print" />
+	<link rel='stylesheet' id='primary-css'  href='style.css' type='text/css' media='all' />
+	
+	<script src='js/modernizr-2.6.2.min.js'></script>
+	
+	<script>	
+		var lteIE8 = false;
+	</script>
+	<!--[if lte IE 8]>
+	<link href="css/noCSS3.css" rel="stylesheet" media="print" />
+	<script>
+		lteIE8 = true;
+	</script>
+	<![endif]-->
+	
+	<!--[if lt IE 9]>
+	    <script src="js/jquery-1.10.2.min.js"></script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script src='js/jquery-2.0.3.min.js'></script>
+	<!--<![endif]-->
+	<link rel='stylesheet' href='datatables/css/jquery.dataTables.css' type='text/css' media='all' />
+	
+	<script src='js/global.js'></script>
+	<style></style><!-- iphone needs this empty tag -->
+</head>
+
+<body>
+	<div id="splash">
+		<div id="load-emblem"></div>
+	</div>
+	
+	<div id="main">
+		<div id="menu-launcher">
+			<a class="project-info" href="#about" title="About this website" alt="About this website"></a>
+			<span class="logo"></span>
+		</div>
+		
+		<header id="top-header">
+		</header>
+		
+		<header id="left-header">
+		</header>
+		
+		<div id="civleader-datatable-holder">
+			<div id="scroller">
+			
+				<table cellpadding="0" cellspacing="0" border="0" class="display" id="civleader-datatable">
+				</table>
+				
+				<footer>This project was created by <a class="camo" href="http://lukesportfolio.com" target="_blank">Luke Sideris</a> in 2013. Last Updated Oct 9 2013, patch 1.0.3.80 &mdash; <a class="feedback" href="feedback.html">Send Feedback</a> &mdash; <a class="bug" href="bug-report.html">Report bug</a></footer>
+			</div>
+		</div>
+		
+	</div>
+	
+	<div class="md-overlay"></div>
+	<div class="md-modal md-effect-scalein" id="about">
+		<div class="md-content">
+			<h3>Civilization 5 AI Biases</h3>
+			<div class="padded">
+				<p>This chart is a reference table of computer personality traits in Sid Meier&rsquo;s Civilization V. It includes information from the <em>Gods &amp; Kings</em> and <em>Brave New World</em> expansions as well as all DLC civs. This project is based on the <a href="http://www.reddit.com/r/civ/comments/1hju7a/new_ai_bias_chart_including_brave_new_world_civs/" target="_blank" rel="nofollow">chart by Raptor-Llama</a>.</p>
+				
+				<p>AI Biases range between 2 and 12 and influence the computer player&rsquo;s decisions. Higher values mean the AI is more likely to do something. The values are scraped directly from the game&rsquo;s XML source code files.</p>
+				
+				<p>Navigate this website using the arrow keys, scroll wheel, or by clicking and dragging on the data table. Click on leader icons or trait names to sort the data. Click again to return to the default order.</p>
+				
+				<p>Questions? Comments? <a class="feedback" href="feedback.html">Send me Feedback</a>. Found a bug? <a class="bug" href="bug-report.html">File a bug report</a> and I&rsquo;ll fix it. IE8 and below are not supported.</p>
+				
+				<button class="md-close">Close</button>
+			</div>
+		</div>
+	</div>
+	
+	<div class="md-modal md-effect-flip" id="feedback">
+		<div class="md-content">
+		</div>
+	</div>
+	
+	<div class="md-modal md-effect-flip" id="bug-report">
+		<div class="md-content">
+		</div>
+	</div>
+</body>
+
+</html>
